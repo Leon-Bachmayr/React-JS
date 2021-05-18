@@ -5,9 +5,9 @@ const tasks= [
 
 const Tasks = () => {
     return (
-        <div>
-            
-        </div>
+        <>
+         {tasks.map((tasks)=> (<h3>(task.text</h3>))}
+        </>
     )
 }
 
