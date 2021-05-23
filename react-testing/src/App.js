@@ -11,4 +11,4 @@ import Tasks from './components/Tasks'
     )
   }
 
-export default App;
+export default App;//test klasse
