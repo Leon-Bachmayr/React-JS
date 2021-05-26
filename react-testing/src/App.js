@@ -8,7 +8,7 @@ import Tasks from './components/Tasks'
         <Header />
         <Tasks></Tasks>
       </div>
-    )
+    )//morgen noch basics einfügen
   }
 
 export default App;
